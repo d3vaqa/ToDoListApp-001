@@ -37,6 +37,7 @@ header h1{
     font-weight: 300;
     margin-bottom:1rem ;
     color: var(--gray);
+    text-align: center;
 
 }
 
